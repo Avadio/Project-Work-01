@@ -1,0 +1,209 @@
+/* Hara Krishna */
+/* radhaaa radhaaa */
+
+/* Main Section start */
+
+.main2 button{
+
+    height: 65px;
+    width: 40%;
+    margin: 100px;
+    margin-left: 30%;
+    background-color: orange;
+    color: whitesmoke;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: 300;
+    border-radius: 15px;
+    border: 2px black solid;
+    transition: all 1s;
+
+}
+
+.main2 button:hover{
+
+    font-size: xx-large;
+    border-radius: 25px;
+    background-color: orangered;
+    border: 4px black solid;
+    height: 70px;
+    width: 40%;
+
+}
+
+.main2 button:visited{
+    background-color: #dd0b0b;
+    color: azure;
+}
+
+#main1{
+    box-shadow: 12px 13px 41px black;
+    border-radius: 10px;
+
+    
+}
+
+.card{
+
+    border-radius: 20px;
+    box-shadow:  20px -20px 100px black;
+
+
+}
+
+.row img{
+
+    height: 300px;
+
+    width: 280px;
+
+    transition: all 1s;
+}
+
+.row img:hover{
+
+    transform: scale(1.5);
+    
+}
+
+.mainall04{
+
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.mainall04 img{
+
+    height: 800px;
+    width: 400px;
+    
+}
+
+.my{
+    margin-bottom: 70px;
+}
+
+
+/* main Section End */
+
+
+
+/* Fotter Section */
+
+
+.fotterall{
+
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    height: 550px;
+    width: 100%;
+    padding-top: 20px;
+    margin-top: 0px;
+    background: #000;
+    
+    
+}
+
+.fotter1{
+
+    padding-top: 40px;
+}
+
+.fotter1 h4,p {
+    color: orchid;
+}
+
+
+.fotter1 button{
+    background-color: orangered;
+    color: white;
+    height: 60px;
+    width: 160px;
+    border-radius: 10px;
+    transition: all 1s;
+}
+
+
+.fotter2{
+    padding-top: 40px;
+}
+
+.fotter3{
+    padding-top: 40px;
+}
+
+.fotter4{
+    padding-top: 30px;
+}
+
+.fotter2 h4{
+    padding-left:10px;
+}
+
+.fotter3 h4{
+    padding-left: 10px;
+}
+
+.fotter3 a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+    color:orchid;
+    transition: all 500ms;
+}
+
+.fotter2 a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+    color:orchid;
+    transition: all 500ms;
+}
+
+.fotter3 a:hover{
+    text-decoration: solid;
+    color:orangered;
+    font-size: xx-large;
+ 
+
+}
+
+.fotter2 a:hover{
+
+    text-decoration: solid;
+    color: orangered;
+    font-size: xx-large;
+  
+
+}
+
+.fotter1 input{
+
+    height: 60px;
+    width: 250px;
+    border: yellowgreen solid 3px;
+}
+
+.fotter1 input:focus{
+    border: #dd0b0b solid 5px;
+    height: 85px;
+    width: 100%;
+}
+
+.fotter1 button:hover{
+    color: orangered;
+    background-color: rgb(252, 252, 252);
+    border:red solid 4px;
+}
+
+.fotter1 input::placeholder{
+    color: orangered;
+}
+
+/* Namaskar */
+
+
